@@ -1,3 +1,3 @@
-module github.com/rakarmp/simagen
+module github.com/rakarmp/simigen
 
 go 1.21.0
